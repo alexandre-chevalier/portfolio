@@ -33,7 +33,7 @@ section{
         color:white;
     }
     ul{
-        margin-top: auto;
+        margin-top: 100px;
         margin-bottom: auto;
         width:100vw;
         display: flex;
@@ -45,6 +45,9 @@ section{
         }
 
     }
+}
+.margin{
+    margin-top: 50px;
 }
 img{
     width:15vw;
